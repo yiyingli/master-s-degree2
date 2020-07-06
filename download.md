@@ -2,6 +2,9 @@
 
 # 01. 中正大學圖書館-電子資源校外連線服務
 
+https://www.lib.ccu.edu.tw/
+
+
 [電子資源校外連線服務](https://sites.google.com/a/lib.ccu.edu.tw/proxy/)
 
 # 02. 中正大學-軟體授權網
