@@ -1,5 +1,12 @@
 
 
+[01 圖書館資源介紹 - YouTube](https://www.youtube.com/watch?v=BKBL1WD_ybU)
+
+[02 軟體授權 - YouTube](https://www.youtube.com/watch?v=8iCY9SCOGc8)
+
+[03 校友信箱 - YouTube](https://www.youtube.com/watch?v=FYDB-z-miEY)
+
+
 # 01. 中正大學圖書館-電子資源校外連線服務
 
 https://www.lib.ccu.edu.tw/
