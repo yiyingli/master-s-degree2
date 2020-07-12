@@ -31,13 +31,13 @@
   
 ## 筆記
 
-[第1週](Digital_learning_in_the_cloud/01/01.md)
+[第1課](Digital_learning_in_the_cloud/01/01.md)
 
-[第2週](Digital_learning_in_the_cloud/02/01.md)
+[第2課](Digital_learning_in_the_cloud/02/01.md)
 
-[第3週](Digital_learning_in_the_cloud/01/01.md)
+[第3課](Digital_learning_in_the_cloud/01/01.md)
 
-[第4週](Digital_learning_in_the_cloud/01/01.md)
+[第4課](Digital_learning_in_the_cloud/01/01.md)
 
 
 # 02. 專題研討
