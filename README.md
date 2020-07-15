@@ -31,14 +31,15 @@
   
 ## 筆記
 
-[第1課](Digital_learning_in_the_cloud/01/01.md)
+[PartI概論篇:Ch.1遠距教學概論](Digital_learning_in_the_cloud/01/01.md)
 
-[第2課](Digital_learning_in_the_cloud/02/01.md)
+[Ch.2遠距教學經營](Digital_learning_in_the_cloud/02/01.md)
 
-[第3課](Digital_learning_in_the_cloud/01/01.md)
+[Ch.3基本學習理論及概念](Digital_learning_in_the_cloud/03/01.md)
 
-[第4課](Digital_learning_in_the_cloud/01/01.md)
+[Ch.4數位教材設計概論](Digital_learning_in_the_cloud/04/01.md)
 
+[PartII教育統計Ch.1統計與科學方法](Digital_learning_in_the_cloud/02ch01/01.md)
 
 # 02. 專題研討
 
