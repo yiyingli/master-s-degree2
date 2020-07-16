@@ -55,6 +55,8 @@
 
 [PartII教育統計Ch.1統計與科學方法](Digital_learning_in_the_cloud/02ch01/01.md)
 
+[同步 20200716](Digital_learning_in_the_cloud/200716/01.md)
+
 # 02. 專題研討
 
 柯仁松教授：
