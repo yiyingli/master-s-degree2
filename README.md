@@ -35,7 +35,7 @@
 - [最新募資課程 | YOTTA 跨領域線上課程平台](https://www.yottau.com.tw/campaign/14)
 - [理工電資 - 臺大開放式課程 (NTU OpenCourseWare)](http://ocw.aca.ntu.edu.tw/ntu-ocw/#!tab3)
 - [國立清華大學開放式課程OpenCourseWare(NTHU, OCW) - 熱門教材](http://ocw.nthu.edu.tw/ocw/index.php?page=mediaList&classid=1)
-- 
+
 ### 英文學習網站
 - [Hot Questions - Stack Exchange](https://stackexchange.com/)
 - [deep learning - Lynda](https://www.lynda.com/search?q=deep+learning)
@@ -43,7 +43,14 @@
 - [课程面板 | edX](https://courses.edx.org/dashboard)
 - [Data Science and Cognitive Computing Courses - Cognitive Class](https://cognitiveclass.ai/)
 - [Learn R, Python & Data Science Online](https://www.datacamp.com/)
-  
+
+
+### 數學學習網站
+
+- [統計 CUSTCourses - YouTube](https://www.youtube.com/c/CUSTCourses/playlists?view=50&sort=dd&shelf_id=5)
+
+- [微積分 CUSTCourses - YouTube](https://www.youtube.com/c/CUSTCourses/playlists?view=50&sort=dd&shelf_id=18)
+
 ## 筆記
 
 [PartI概論篇:Ch.1遠距教學概論](Digital_learning_in_the_cloud/01/01.md)
@@ -57,6 +64,8 @@
 [PartII教育統計Ch.1統計與科學方法](Digital_learning_in_the_cloud/02ch01/01.md)
 
 [同步 20200716](Digital_learning_in_the_cloud/200716/01.md)
+
+[Ch.2集中趨勢與變異性](Digital_learning_in_the_cloud/02ch02/01.md)
 
 # 02. 專題研討
 
