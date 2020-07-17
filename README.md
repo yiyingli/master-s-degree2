@@ -44,6 +44,18 @@
 - [Data Science and Cognitive Computing Courses - Cognitive Class](https://cognitiveclass.ai/)
 - [Learn R, Python & Data Science Online](https://www.datacamp.com/)
 
+### 付費但實惠的學習網站
+
+- [Udemy python](https://www.udemy.com/courses/search/?q=python)
+
+- [Udemy android](https://www.udemy.com/courses/search/?q=android&src=sac&kw=android)
+
+- [Udemy android](https://www.udemy.com/courses/search/?q=android&src=sac&kw=android)
+
+- [Udemy JAVA](https://www.udemy.com/courses/search/?q=JAVA)
+
+- [Udemy Deep Learning](https://www.udemy.com/courses/search/?q=deep+learning)
+
 
 ### 數學學習網站
 
