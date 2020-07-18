@@ -79,6 +79,12 @@
 
 [Ch.2集中趨勢與變異性](Digital_learning_in_the_cloud/02ch02/01.md)
 
+
+## 03.08. 刻意練習
+
+[刻意練習](http://www.tcstc.com.tw/yu/OwlCarousel3/docs/master/DeliberatePractice/SelectClassClient.asp)
+
+
 # 04. 專題研討
 
 柯仁松教授：
