@@ -84,6 +84,8 @@
 
 [Ch.2集中趨勢與變異性](Digital_learning_in_the_cloud/02ch02/01.md)
 
+[同步 20200729](Digital_learning_in_the_cloud/200729/01.md)
+
 
 ## 03.08. 刻意練習
 
